@@ -1,0 +1,28 @@
+.container{
+    display :flex;
+    justify-content: center;
+    align-items: center;
+}
+.timer {
+    display:flex;
+
+}
+h1{ margin-right: 150px;
+    
+    font-size: 100px;
+}
+h4{
+    
+    
+    margin: 40px;
+    
+    margin-left: 50px;
+    
+    color:grey;
+
+}
+.time{
+    margin-left:250px;
+}
+
+
